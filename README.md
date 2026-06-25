@@ -1,26 +1,26 @@
 # summer Internship
 
 ## Organization
-Company Name:- IMS CAD CENTER
+Company Name:- THIRANEX
 
 ## Duration
- 11-05-2026 TO 02-06-2026
+ 01-05-2026 TO 31-05-2026
 
 ## Role
-BCA Intern / Website developer /UI 7 UX designer
+DATA ANALYSTICS
 
 ## Technologies Used
-- Figma
-- Wordpress
+-PANDAS
+-PYTHAN
+-EXCEL
   
 
 ## What I Learned
-- how to build website using wordpress
-- learn tools
-- more details on figma
-- canava
-
+-charts
+- pandas
+- python
+- 
 ## Project
--Design a Company website 
-- created a poster
-- created a video
+-Customer segmentation
+-data cleaning project
+-predictive -analytics project
