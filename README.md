@@ -1,26 +1,21 @@
-# summer Internship
+# Predictive Analytics Using Historical Data
 
-## Organization
-Company Name:- THIRANEX
-
-## Duration
- 01-05-2026 TO 31-05-2026
-
-## Role
-DATA ANALYSTICS
+## Objective
+Build a predictive model using historical sales data to forecast future sales trends.
 
 ## Technologies Used
--PANDAS
--PYTHAN
--EXCEL
-  
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
 
-## What I Learned
--charts
-- pandas
-- python
-- 
-## Project
--Customer segmentation
--data cleaning project
--predictive -analytics project
+## Features
+- Data preprocessing
+- Linear regression model
+- Future trend prediction
+- Accuracy evaluation
+- Data visualization
+
+## Outcome
+Learned predictive analytics, regression modeling, and trend forecasting.
